@@ -3,7 +3,9 @@
 SalesInsight, satış verilerini analiz ederek anlamlı içgörüler elde etmeyi amaçlayan bir veri analizi projesidir.  
 MySQL ile veri altyapısı oluşturulmuş, Power BI ile görselleştirilmiştir. Proje hem **web** hem de **mobil** ortamdan erişilebilecek şekilde optimize edilmiştir. 🌐📱
 
-![image](https://github.com/user-attachments/assets/468f48d1-1b33-4189-9e37-cb1e8655b6ff)
+![image](https://github.com/user-attachments/assets/468f48d1-1b33-4189-9e37-cb1e8655b6ff)  ![image](https://github.com/user-attachments/assets/45c5be86-a036-4d7e-a74d-8027e6580d73) ![Uploading image.png…]()
+
+
 
 
 ---
